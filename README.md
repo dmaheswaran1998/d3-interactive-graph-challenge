@@ -1,6 +1,6 @@
 # d3-interactive-graph-challenge
 
-##Enjoy the website!  In order to do the website please so the following:
+## Enjoy the website!  In order to do the website please so the following:
 
 1. Use the dropdown menu and the graphs will update as you change the sample. 
 
